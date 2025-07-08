@@ -12,7 +12,7 @@ st.title("🧥 Deteksi Gambar Fashion + Pengolahan Citra")
 
 # ========== KONFIGURASI PATH YANG AMAN ==========
 # Gunakan raw string untuk menghindari masalah backslash
-IMAGE_DIR = Path(r"D:\PCD WEBSITE\data\images\Shoe vs Sandal vs Boot Dataset")
+IMAGE_DIR = Path("data/images/Shoe vs Sandal vs Boot Dataset")
 
 # ========== FUNGSI UTAMA ==========
 def main():
